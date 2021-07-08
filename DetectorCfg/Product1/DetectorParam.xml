@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VpDetectorinfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DelayTime>0</DelayTime>
+  <RangeX>0.1</RangeX>
+  <RangeY>0.1</RangeY>
+  <RangeR>0.1</RangeR>
+</VpDetectorinfo>
